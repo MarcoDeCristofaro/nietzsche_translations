@@ -1,0 +1,981 @@
+PREMESSA
+Questi scritti minori, che si aggiungono alle ope¬
+re più importanti e sistematiche, sono costituiti in
+parte da alcune trattazioni su temi particolari e
+molto disparati, e in parte da pensieri staccati su
+oggetti ancora più vari. Tutto ciò è riunito qui, dal
+momento che non ha potuto trovare alcun posto,
+soprattutto a causa del suo contenuto, in quelle
+opere sistematiche; qualcosa poi è riportato qui sol¬
+tanto perché sorto troppo tardi per ottenere il po¬
+sto che gli spetterebbe in quella sede.
+Nel far questo, è vero, ho anzitutto tenuto pre¬
+senti i lettori, cui sono conosciute le mie opere più
+significative e tra loro concatenate, e proprio que
+sti troveranno qui forse ancora molti chiarimenti
+da loro desiderati; in complesso però il contenuto
+di questi volumi, eccettuati alcuni passi, sarà com¬
+prensibile e profittevole anche per coloro che non
+vantano una tale conoscenza. Tuttavia colui che ha
+confidenza con la mia filosofia avrà ancor sempre
+qualche vantaggio poiché questa filosofia riflette
+continuamente la sua luce, anche se soltanto di lon¬
+tano, su tutto ciò che io penso e scrivo, allo stesso
+modo d’altro canto che essa riceve ancor sempre
+una qualche illuminazione da tutto quanto nasce
+dalla mia mente.
+Frankfurt am Main, dicembre 1850
+
+
+oMIZZO DI UNA STORIA DELLA TEORIA
+DELL'IDEALE E DEL REALE
+Plurimi pertransibunt, et
+multiplex erit scientia.?
+Dan. 12, 4
+
+
+cartesio è considerato a buon diritto il padre del¬
+glosofia moderna, anzitutto ed in generale poi¬
+pà ha avviato la ragione a reggersi sulle proprie
+cambe, con l'insegnare agli uomini a servirsi del
+aroprio cervello, sino allora duplicemente sostitui¬
+le dalla Bibbia e da Aristotele; in particolare poi
+ad in senso più ristretto, poiché è divenuto coscien¬
+te per la prima volta del problema dell’ideale e del
+reale, intorno a cui per lo più si aggira da allora
+ogni filosofare, cioè della questione su cosa vi sia di
+rgettivo e cosa di soggettivo nella nostra conoscen¬
+za, su cosa dunque in questa sia da attribuirsi ad
+eventuali oggetti diversi da noi, e cosa invece a noi
+stessi. Nel nostro cervello nascono delle immagini,
+determinate non dall’interno — come ad esempio
+dall’arbitrio o dalla connessione dei pensieri — ben¬
+si da una causa esterna. Soltanto queste immagini
+costituiscono l’immediatamente conosciuto, il dato.
+Quale rapporto possono avere queste immagini con
+oggetti, che esistono pienamente separati e indipen¬
+denti da noi, e sono stati in qualche modo la causa
+di queste immagini? Siamo certi che in generale tali
+oggetti esistano e, in tal caso, le immagini ci dànno
+un chiarimento anche sulla loro natura? Tale è il
+problema, e come sua conseguenza da duecento an¬
+ni l’aspirazione essenziale dei filosofi è stata di sepa¬
+rare nettamente, con un taglio tracciato in linea
+retta, l’ideale, cioè quanto appartiene solo alla no¬
+stra conoscenza come tale, dal reale, cioè da quanto
+sussiste indipendentemente dalla conoscenza stessa,
+e in tal modo di stabilire il rapporto reciproco dei
+due termini.
+In realtà né i filosofi dell’antichità né gli Scola¬
+stici sembrano essere giunti a una chiara coscienza
+di questo fondamentale problema filosofico, sebbe¬
+
+
+PARERGA E PARALIPOMENA
+20
+ne se ne possa trovare una traccia sotto forma di
+idealismo, e già anche di dottrina dell’idealità del
+tempo, in Plotino — propriamente in Enneade, i.
+libro 7, cap. 10 - dove si insegna che l’anima ha
+creato il mondo, entrando dall’eternità nel tempo.
+Qui si dice, ad esempio, o ráo rig abroù roùroy
+rob ravròg rónog, i dvyn (neque datur alius huius
+universi locus, quam anima), come anche: ôet ô où
+y außéveiv rôv xoóvov, oreg o
+ròv aliva exei &u roi ôvrog (oportet autem nequa¬
+quam extra animam tempus accipere, quemadmo¬
+dum neque aeternitatem ibi extra id, quod ens ap¬
+pellatur); con ciò se vogliamo è già espressa l'idea¬
+lità del tempo di Kant. E nel capitolo seguente:
+obrog ò Blog ròv xoovov yewa ôtó rai elgyrat qua ros
+ro ravri reyovévai, ôri duyi aùròv uerd rouôs rou
+ravròg éyéwnoev (haec vita nostra tempus gignit:
+quamobrem dictum est, tempus simul cum hoc uni¬
+verso factum esse; quia anima tempus una cum hoc
+universo progenuit).' Tuttavia il suddetto proble¬
+ma, chiaramente riconosciuto e chiaramente espres¬
+so, rimane il tema caratteristico della filosofia mo¬
+derna, dopo chę l’intelligenza necessaria a questo
+scopo si rivelò anzitutto in Cartesio. Questi fu tutto
+preso dalla verità che noi siamo prima d’ogni altra
+cosa limitati alla nostra propria coscienza e che il
+mondo ci è dato soltanto come rappresentazione:
+con il famoso « dubito, cogito, ergo sum » egli volle
+porre in rilievo l’unica certezza della coscienza su¬
+biettiva, in contrasto alla problematicità di tutto il
+resto, ed esprimere la grande verità che l'unica cosa
+realmente e incondizionatamente data è l’autoco¬
+scienza. A rigore il suo celebre principio equivale
+al mio punto di partenza: « il mondo è la mia rap-
+presentazione ». L’unica differenza sta nel fatto che
+egli pone in rilievo l’immediatezza del soggetto, ed
+io la mediatezza dell’oggetto. Le due proposizioni
+esprimono la medesima cosa da due lati, sono il ro¬
+
+
+21
+DELL'IDEALE E DEL REALE
+pacio l'una dell'altra, e stanno cosi nello stesso rap
+parto della legge d'inerzia rispetto a quella di cau¬
+calità, quale risulta dalla mia esposizione nell'intro¬
+auzione all'Etica (I due problemi fondamentali del-
+petica, trattati in due scritti accademici dal Dr. Ar¬
+thur Schopenhauer, Frankfurt a.M., 1841, pp. 24
+eg). Certamente da allora si è ripetuta innumerevo¬
+ji volte la sua frase, avendo soltanto sentore della
+sua importanza, e non avendo una chiara compren¬
+sione del suo vero senso e del suo scopo (cfr. Carte¬
+sio, Meditationes, Med. II, p. 15). Egli dunque sco¬
+pri l’abisso che separa il subiettivo, o ideale, dall’o¬
+biettivo, o reale, ed espresse questa sua tesi nel dub¬
+bio sull’esistenza del mondo esterno: senonché con
+il suo misero espediente per uscirne — affermando
+cioè che il buon Dio non ci vorrà certo inganna¬
+re — egli mostrò quanto fosse profondo e difficile a
+risolversi il problema. Nel frattempo attraverso di
+lui, questo scrupolo era entrato nella filosofia e do¬
+veva continuar ad agire come elemento perturbato¬
+re, sino a che non fosse definitivamente eliminato.
+La coscienza che senza una conoscenza a fondo ed
+un chiarimento dell’esposta distinzione non è pos¬
+sibile alcun sistema sicuro e soddisfacente, fu pre¬
+sente da Cartesio in poi, e la questione non poté
+più essere ignorata.
+Ad eliminarla si provò anzitutto Malebranche,
+escogitando il sistema delle cause occasionali. Egli
+colse il problema in tutta la sua ampiezza, in modo
+più chiaro, più serio e più profondo di Cartesio
+(Recherches de la vérité, libro III, seconda parte).
+Costui aveva accettato la realtà del mondo esterno,
+facendone credito a Dio; dal che invero risulta la
+stranezza, che mentre gli altri filosofi teisti si sfor¬
+zavano di dimostrare l’esistenza di Dio dall’esisten-
+za del mondo, Cartesio al contrario prova l’esisten¬
+za del mondo partendo dall’esistenza e dalla vera¬
+cità di Dio: è la prova cosmologica rovesciata. Ma¬
+
+
+PARERGA E PARALIPOMENA
+22
+lebranche, facendo un passo in avanti anche a
+questo punto, insegna che noi vediamo tutte le cos
+immediatamente in Dio stesso. Ciò significa, è vera
+spiegare una realtà sconosciuta con qualcosa di ae
+cor più sconosciuto. Inoltre, secondo lui, non sol
+tanto noi vediamo tutte le cose in Dio, ma quest'ul.
+timo è anche l'unica forza operante in esse, cosie
+ché le cause fisiche sono soltanto apparenti, pure
+« causes occasionnelles » (Rech. de la vérité, libro vr
+seconda parte, cap. 3). In tal modo ci troviamo già
+qui in sostanza di fronte al panteismo di Spinoza
+che sembra avere imparato più da Malebranche che
+non da Cartesio.
+In generale ci si potrebbe meravigliare che il pan¬
+teismo non abbia conseguito già nel secolo dicias¬
+settesimo una completa vittoria sopra il teismo, dal
+momento che le esposizioni europee più originali,
+più belle e più profonde del panteismo (certamente
+tutto ciò, in confronto alle Upanisad dei Veda, non
+è nulla) vennero alla luce tutte quante in quell’epo¬
+ca, cioè attraverso Bruno, Malebranche, Spinoza e
+Scoto Erigena. Quest’ultimo, dimenticato e perduto
+attraverso molti secoli, fu riscoperto a Oxford e
+stampato per la prima volta nel 1681, cioè quattro
+anni dopo la morte di Spinoza. Ciò sembra dimo¬
+strare che le vedute di uomini singoli non possono
+farsi valere sino a che lo spirito del tempo non è
+maturo per accettarle. Cosi d’altra parte ai nostri
+giorni il panteismo è divenuto la concezione domi¬
+nante dei dotti e persino degli uomini colti, per
+quanto esposto soltanto nella rielaborazione eclet¬
+tica e confusa di Schelling, e ciò è avvenuto perché
+Kant aveva appianato il terreno con l’abbattimen¬
+to del dogmatismo teistico e gli aveva fatto posto,
+in modo tale che lo spirito dell’epoca è stato pre¬
+parato al panteismo, come un campo arato alla se¬
+mina. Nel diciassettesimo secolo per contro la filo¬
+sofia lasciò nuovamente quella strada e giunse da
+
+
+23
+DELL'IDEALE E DEL REALE
+lato a Locke, che era stato preceduto da Bacone
+e Hobbes, e dall'altro, attraverso Leibniz, a
+curistian Wolf; questi ultimi due dominarono poi,
+u diciottesimo secolo, specialmente in Germania,
+ea pure solo in quanto finirono di essere accolti nel¬
+edetismo sincretistico.
+profondi pensieri di Malebranche per altro han¬
+pa dato la spinta immediata al sistema dell'harmo¬
+nia praestabilita di Leibniz, la cui fama, ampia
+mente diffusa, e la cui alta considerazione ai suoi
+tempi danno una prova che l’assurdo fa molto fa¬
+cilmente fortuna nel mondo. Per quanto io non
+possa vantarmi di avere delle idee chiare sulle mo¬
+nadi di Leibniz, che sono al tempo stesso punti
+matematici, atomi materiali ed anime, tuttavia mi
+sembra fuori dubbio che una tale tesi, una volta
+accettata, potrebbe servire a risparmiare tutte le
+ulteriori ipotesi per il chiarimento della connessio¬
+ne tra ideale e reale, e ad eliminare la questione,
+dato che questi due termini sono già pienamente
+identificati nelle monadi. (Per tale ragione anche
+ai nostri giorni Schelling, come autore del sistema
+dell’identità, ha nuovamente preso gusto a questo
+genere di soluzione). Tuttavia a questo famoso ma¬
+tematico, erudito e politico filosofante, non è pia¬
+ciuto utilizzare a questo modo le monadi, ed egli,
+per lo scopo suddetto, ha formulato appositamente
+l’armonia prestabilita. Quest’ultima ci presenta due
+mondi fondamentalmente diversi, ciascuno dei qua¬
+li è incapace ad agire in qualsiasi modo sull’altro
+(Principia philos., § 84 e Examen du sentiment du
+père Malebranche, pp. 500 sg. delle Œuvres de Leib¬
+nitz, edizione Raspe), ed è l’inutile doppione del¬
+l’altro, ma che pure devono coesistere, svolgersi
+esattamente l’uno parallelo all’altro ed essere sin-
+cronizzati con grande esattezza; per questo l’autore
+di entrambi, proprio al principio, ha stabilito tra
+di loro la più precisa armonia, nella quale essi si
+
+
+21
+PARERGA E PARALIPOMENA
+sviluppano l'uno accanto all'altro nel migliore de;
+modi. Detto tra parentesi, l'harmonia praestabilita
+si può forse intendere nel modo migliore, quando
+la si paragoni alla rappresentazione scenica, là doua
+molto spesso l'influxus physicus sussiste solo in an
+parenza, e la causa e l’effetto sono connessi unica
+mente attraverso un’armonia prestabilita dal regi.
+sta, ad esempio quando uno spara e l’altro cade « a
+tempo ». Con brevità e nel modo più grossolano
+Leibniz ha esposto la cosa, nella sua mostruosa as.
+surdità, attraverso i §§ 62 e 63 della sua Theodiceg
+Tuttavia in tutta questa costruzione egli non ha
+neppure il merito dell’originalità, poiché già Spi¬
+noza ha esposto abbastanza chiaramente l’harmonia
+praestabilita nella seconda parte della sua Ethica,
+precisamente nelle proposizioni sesta e settima, e
+nei loro corollari, ed ancora nella quinta parte.
+prop. 1, dopo che nella quinta proposizione della
+seconda parte aveva a modo suo espresso la dottrina
+molto affine di Malebranche, secondo la quale noi
+vediamo tutto in Dio.* Cosi Malebranche soltanto
+è l’autore di tutto questo corso di pensieri, che tan¬
+to Spinoza quanto Leibniz, ciascuno a modo suo,
+hanno utilizzato e sviluppato. Leibniz avrebbe an¬
+zi potuto fare a meno della cosa, poiché in tal mo¬
+do egli ha già abbandonato il puro dato di fatto,
+* Eth., parte II, prop. 7: « Ordo et connexio idearum
+idem est, ac ordo et connexio rerum ». Parte v, prop. 1:
+«Prout cogitationes rerumque ideae concatenantur in
+Mente, ita corporis affectiones, seu rerum imagines ad
+amussim ordinantur et concatenantur in Corpore ». Par¬
+te II, prop. 5: « Esse formale idearum Deum, quatenus
+tantum ut res cogitans consideratur, pro causa agnoscit,
+et non quatenus alio attributo explicatur. Hoc est, tam
+Dei attributorum, quam rerum singularium ideae non
+ipsa ideata, sive res perceptas pro causa efficiente agno¬
+scunt: sed ipsum Deum, quatenus est res cogitans ».
+
+
+DELL'IDEALE E DEL REALE
+25
+pentiale per il problema, che cioè il mondo ci e
+dato immediatamente soltanto come nostra rappre,
+ntaione, e l'ha abbandonato per sostituirgli il
+dogma di un mondo materiale e di un mondo spi¬
+tuale, tra cui non è possibile alcun ponte, intrec¬
+dando il problema del rapporto tra le rappresen¬
+tazioni e le cose in sé con la questione della possi¬
+bilità dei movimenti del corpo per opera della vo¬
+lontà, e risolvendoli a un tempo entrambi con la
+sua harmonia praestabilita (cfr. Système nouveau
+de la nature, in Leibniz, Opera, ed. Erdmann, p.
+125; Brucker, Hist. ph., tomo Iv, parte II, p. 425).
+La mostruosa assurdità di questa tesi fu già posta
+nella luce più chiara da alcuni suoi contemporanei,
+in particolar modo da Bayle, con una esposizione
+delle conseguenze che ne derivavano. (Si veda ne¬
+gli scritti minori di Leibniz, tradotti da Huth nel¬
+l’anno 1740, la nota a p. 79, in cui Leibniz stesso
+si vede costretto a esporre le conseguenze rivoltanti
+della sua asserzione). Tuttavia proprio l’assurdità
+della tesi, cui una persona d’ingegno fu sospinta
+dal presente problema, dimostra la grandezza, la
+difficoltà e la perplessità del medesimo, e quanto
+poco lo si possa eliminare e se ne possano distrug-
+ere le difficoltà con una semplice negazione, come
+si è tentato di fare ai giorni nostri.
+Spinoza a sua volta prende le mosse immediata-
+mente da Cartesio: egli mantenne quindi da prin¬
+cipio, presentandosi come cartesiano, il dualismo
+del maestro, e accettò di conseguenza una substan¬
+tia cogitans e una substantia extensa, quella come
+soggetto e questa come oggetto della conoscenza.
+Più tardi invece, quando trovò la propria indipen¬
+denza, egli scopri che entrambe costituivano una
+medesima sostanza, vista da differenti aspetti e con¬
+cepita cioè da un lato come substantia extensa,
+dall'altro come substantia cogitans. Ciò significa
+propriamente che la differenza tra pensante ed este¬
+
+
+PARERGA E PARALIPOMENA
+26
+so. o tra spirito e materia, è infondata e quind:
+inammissibile; di essa quindi non si sarebbe dou
+to parlare ulteriormente. Egli però la mantiene
+sempre soltanto per ripetere instancabilmente che :
+due termini costituiscono un’unità. A ciò egli ag
+giunge ancora, con un semplice « sic etiam » cha
+« modus extensionis et idea illius modi una eadem
+que est res » (Eth., parte II, prop. 7, scolio); con il
+che s’intende che la nostra rappresentazione dei
+corpi e questi corpi stessi sono una medesima cosa
+Senonché il « sic etiam » stabilisce un insufficiente
+passaggio a una tale affermazione, poiché dal fatto
+che la differenza tra spirito e materia, oppure tra
+rappresentante ed esteso, è infondata, non segue in
+alcun modo che sia altresi infondata la distinzione
+tra la nostra rappresentazione e una cosa oggettiva
+e reale esistente al di fuori della medesima, ciò che
+costituisce per l’appunto il problema fondamentale
+impostato da Cartesio. Il rappresentante e il rappre¬
+sentato possono pure avere la stessa natura; rimane
+tuttavia la questione se da rappresentazioni del mio
+cervello si possa dedurre sicuramente la natura di
+esseri diversi da me, esistenti in se stessi, cioè indi¬
+pendentemente dalle rappresentazioni. La difficoltà
+non sta là, dove soprattutto Leibniz (per esempio
+Theodic., parte I, § 59) vorrebbe forzatamente ri¬
+trovarla, nel fatto cioè che non possa aver luogo
+alcuna influenza o comunione tra le anime suppo¬
+ste e il mondo materiale, in quanto due specie di
+sostanze assolutamente eterogenee, ragione per la
+quale egli negò l’influsso fisico: questa difficoltà in¬
+fatti è una pura conseguenza della psicologia razio¬
+nale, e basta quindi semplicemente eliminarla come
+una finzione, allo stesso modo che avviene in Spi¬
+noza. Inoltre contro il sostenitore della medesima,
+come argumentum ad hominem, si può far valere
+la sua dottrina, che Dio stesso, il quale pure è uno
+spirito, ha creato il mondo materiale e continua a
+
+
+DELL'IDEALE E DEL REALE
+27
+nuemnarlo, e che quindi uno spirito può agire im
+mediatamente sulla materia. Piuttosto la difficolta
+e e rimane soltanto quella cartesiana, che cioé il
+pondo, l'unico dato a noi immediatamente, è sem¬
+plicemente un mondo ideale, costituito cioè da pu¬
+le rappresentazioni della nostra mente, mentre noi,
+andando oltre, tentiamo di giudicare un mondo
+aale cioè esistente al di fuori delle nostre rappre¬
+sentazioni. Spinoza quindi, abolendo la distinzione
+ma la Substantia cogitans e la substantia extensa,
+non ha ancora risolto questo problema, ma se mai
+ha nuovamente reso ammissibile l'influsso fisico.
+Quest'ultimo peraltro non vale a risolvere la diffi¬
+coltà, potendosi dimostrare che la legge di causa¬
+lità è di origine soggettiva, e che quand’anche al
+contrario derivasse dall’esperienza esterna, essa do¬
+vrebbe pur appartenere a quel mondo posto in que¬
+stione, dato a noi soltanto idealmente: cosicché in
+nessun caso la causalità può stabilire un passaggio
+tra l'assolutamente o
+gettivo e il soggettivo, e rima¬
+ne piuttosto semplicemente il legame che congiunge
+tra di loro i fenomeni. (Cfr. Il mondo come volontà
+e rappresentazione, vol. II, p. 12).
+Per spiegare tuttavia più da vicino la suddetta
+identità dell’estensione e della sua rappresentazione,
+Spinoza introduce qualcosa che comprende al tem¬
+po stesso l’opinione di Malebranche e quella di
+Leibniz. Proprio come in Malebranche, noi vedia¬
+mo cioè tutte le cose in Dio: « rerum singularium
+ideae non ipsa ideata, sive res perceptas, pro causa
+agnoscunt, sed ipsum Deum, quatenus est res cogi¬
+tans » (Eth., parte II, prop. 5); e questo Dio costi¬
+tuisce anche al tempo stesso ciò che vi è di reale e
+di operante in esse, proprio come in Malebranche.
+Dal momento tuttavia che Spinoza con il nome
+« Deus » indica il mondo, in tal modo in estrema
+analisi non viene spiegato nulla. Al tempo stesso
+pero si trova in lui, come in Leibniz, un preciso
+
+
+PARERGA E PARALIPOMENA
+28
+parallelismo tra il mondo esteso e quello rappresas
+tato: « ordo et connexio idearum idem est, ac orde
+et connexio rerum » (parte II, prop. 7 e molti pas
+si simili). Questa è l'harmonia praestabilita di leil
+niz; soltanto che qui il mondo rappresentato a
+quello esistente in modo oggettivo non rimangono
+pienamente separati come in Leibniz, in corrispon
+denza reciproca soltanto attraverso un'harmonia ro
+golata in precedenza e dal di fuori, ma sono real
+mente una sola e medesima cosa. Abbiamo dunque
+qui innanzitutto un completo realismo, in quanto
+l’essere delle cose corrisponde esattamente alla loro
+rappresentazione in noi, e i due termini anzi sono
+una cosa sola. Di conseguenza noi conosciamo le
+cose in sé: esse sono in se stesse extensa, e d’altron,
+de, in quanto compaiono come cogitata, cioè nella
+rappresentazione che ne abbiamo, esse si presentano
+come extensa. (Detto incidentalmente, è questa
+l’origine dell’identità di Schelling tra il reale e
+l’ideale). Tutto ciò in realtà è fondato su di una
+semplice asserzione. L’esposizione non è chiara già
+per l’equivocità della parola « Deus », usata in sen¬
+so improprio, e anche per altri motivi; egli si perde
+quindi nell'oscurità e dichiara alla fine: « nec im¬
+praesentiarum haec clarius possum explicare ». La
+mancanza di chiarezza nell’esposizione nasce però
+sempre da una confusa comprensione ed elabora¬
+zione dei filosofemi. Vauvenargues ha detto molto
+giustamente: « La clarté est la bonne foi des philo¬
+sophes». (Cfr. «Revue des deux Mondes», 15 agosto
+1853, p. 635). Ciò che è nella musica la « frase pu¬
+ra », è nella filosofia la completa chiarezza, in quan¬
+to conditio sine qua non, senza il cui adempimento
+ogni cosa perde il suo valore e noi dobbiamo dire:
+« quodcumque ostendis mihi sic incredulus odi ».
+Se persino nelle questioni della vita comune e pra¬
+tica si debbono accuratamente prevenire, con la
+chiarezza, i possibili fraintendimenti, come ci si po¬
+
+
+DELL'IDEALE E DEL REALE
+29
+Labe esprimere indeterminatamente e anzi enig
+maticamente nell'oggetto più difficile, più astruso,
+uasi irraggiungibile del pensiero, che è compito
+pala flosofa? L'oscurità biasimata nella dottrina
+spinora nasce dal fatto che egli non parte spon¬
+aneamente dalla natura delle cose, quale si presen¬
+ta, ma dal cartesianesimo, e di conseguenza da ogni
+genere di concetti presi a prestito, come « Deus »,
+substantia », « perfectio », eccetera, che egli per
+via indiretta si sforza di porre in accordo con la
+cua verità. Egli esprime quanto ha di meglio, so¬
+prattutto nella seconda parte dell'Ethica, molto spes¬
+co solo indirettamente, parlando di continuo per
+ambages e quasi allegoricamente. D’altro canto, pe
+rò. Spinoza mette in luce un indiscutibile idealismo
+trascendentale, cioè una conoscenza, sia pure gene¬
+rica, delle verità chiaramente esposte da Locke e
+soprattutto da Kant, una reale distinzione dall'ap-
+parenza della cosa in sé e il riconoscimento che
+soltanto la prima è a noi accessibile. Si veda Eth.,
+parte II, prop. 16 con il secondo corollario; prop. 17,
+scolio; prop. 18, scolio; prop. 19; prop. 23, che esten¬
+de quanto si è detto alla conoscenza di sé; prop. 25,
+che esprime tutto ciò chiaramente, e infine come rias¬
+sunto il corollario alla prop. 29, il quale afferma con
+chiarezza, che noi non conościamo né noi stessi né
+le cose come sono in sé, ma soltanto come appaiono.
+La dimostrazione della prop. 27, parte III, proprio
+all’inizio, esprime la cosa nel modo più chiaro. Ri¬
+guardo al rapporto tra la dottrina di Spinoza e
+quella di Cartesio, rimando a quanto ho detto sul¬
+l'argomento nella mia opera Il mondo come volon¬
+tà e rappresentazione, vol. II, p. 639 (3’ ed., p. 739).
+Senonché con quel partire dai concetti della filoso¬
+la cartesiana non soltanto sono entrati nell’esposi-
+tione di Spinoza molte oscurità e motivi di equivo¬
+co, ma in tal modo egli è incorso altresi in molti
+stridenti paradossi, evidenti falsità, e in tali assur¬
+
+
+30
+PARERGA E PARALIPOMENA
+dità e contraddiioni, che quanto vi e di vero a a.
+ccellente nella sua dottrina ha subito una spiaa-
+vole mescolanza con elementi assolutamente indiaa
+ribili, e il lettore è sospinto qua e là, tra l'ammina-
+tione e il disgusto. Per altro, rispetto alla questione
+considerata qui, l'errore fondamentale di Spinone
+sta nel fatto che egli ha condotto da un punto pos¬
+giusto la linea di separazione tra l'ideale e il reale
+cioè tra il mondo soggettivo e quello oggettivo, Ia
+altre parole, l'estensione non è per nulla il contra
+rio della rappresentazione, ma è compresa piena
+mente in quest'ultima. Noi rappresentiamo le cose
+come estese, e in quanto sono estese esse sono una
+nostra rappresentazione: la questione, invece, e il
+problema originario stanno nel determinare se mai
+si dia qualcosa di esteso, o anzi in generale di esi¬
+stente, indipendentemente dal nostro rappresenta¬
+re. Ciò fu risolto più tardi da Kant in modo inne¬
+gabilmente giusto, nel senso che l’estensione o la
+spazialità giacciono unicamente e soltanto nella rap-
+presentazione, e ineriscono a questa, in quanto tut¬
+to lo spazio ne è semplicemente la forma; cosicché
+non può sussistere, e certissimamente non sussiste
+affatto, alcuna estensione indipendente dal nostro
+rappresentare. La linea di separazione di Spinoza è
+quindi caduta completamente nel lato ideale ed egli
+è rimasto nel mondo rappresentato, considerando
+quest’ultimo, contrassegnato dalla forma che gli è
+propria dell’estensione, come il reale, cioè come
+esistente in sé, indipendentemente dall’essere rap¬
+presentato. Egli ha allora ben ragione di dire che
+quanto è rappresentato — cioè la nostra rappresen¬
+tazione dei corpi e questi corpi stessi — sono
+un’identica cosa (parte II, prop. 7, scolio). Indub¬
+biamente le cose sono estese soltanto come rappre¬
+sentate e rappresentabili soltanto come estese: il
+mondo come rappresentazione e il mondo nello
+spazio sono una eademque res, noi possiamo conce¬
+
+
+DELL'IDEALE E DEL REALE
+e cid senz'altro. Se ora l'estensione fose una pro¬
+ela delle cose in sé, la nostra intuitione conter¬
+ebbe una conoscenza delle cose in sé: egli la in¬
+tende proprio cosl e qui sta il suo realismo. Dal
+omento però che non lo giustifica e non dimostra
+came alla nostra intuizione di un mondo spaziale
+arrisponda un mondo spaziale indipendente da
+questa stessa intuizione, il problema fondamentale
+umane insoluto. Ciò per altro deriva proprio dal
+fatto che la linea di divisione tra il reale e l'ideale,
+l'oggettivo e il soggettivo, la cosa in sé e l'apparen¬
+na non è tracciata giustamente: egli conduce piut
+tosto, come si è detto, il taglio entro il lato ideale,
+soggettivo, fenomenico del mondo, cioè attraverso
+il mondo come rappresentazione, suddividendo que¬
+st'ultima nell’estensione o spazialità e nella nostra
+rappresentazione della medesima, e si preoccupa poi
+vivamente di mostrare che entrambe sono una stes¬
+sa cosa, come effettivamente è. Proprio perché Spi¬
+noza rimane completamente legato all’aspetto idea-
+le del mondo, pensando di trovare già il reale nel¬
+l’estensione, che a questo stesso aspetto appartiene,
+dal momento che secondo lui il mondo intuibile è
+l’unica realtà fuori di noi e ciò che conosce (cogi¬
+tans) l’unica realtà in noi, cosi d’altro canto egli
+pone l’unico verace reale, la volontà, nell’ideale, fa¬
+cendone un semplice modus cogitandi, anzi identi¬
+ficandolo con il giudizio. Si vedano nella seconda
+parte dell’Ethica le dimostrazioni delle propp. 48 e
+19, dove si dice: « per voluntatem intelligo affir¬
+mandi et negandi facultatem », e ancora: « conci-
+plamus singularem aliquam volitionem, nempe mo¬
+dum cogitandi, quo mens affirmat, tres angulos
+trianguli aequales esse duobus rectis »; cui segue il
+corollario: « voluntas et intellectus unum et idem
+sant ». In generale Spinoza ha il grave difetto di
+servirsi a bella posta di certe parole per indicare
+concetti che sono universalmente espressi con altri
+
+
+PARERGA E PARALIPOMENA
+32
+nomi, e per contro di togliere loro il signifcato di¬
+hanno normalmente: cosi egli chiama « Dios e
+che viene sempre detto « il mondo », « il diritta
+ciò che è sempre chiamato e la forza », e & la vola-
+tà » ciò che viene sempre detto « il giudizio a o.
+sentiamo del tutto autorizzati a ricordare à quest¬
+proposito il condottiero dei cosacchi del Beniomet.
+di Kotzebue.
+Berkeley, anche se più tardi e dopo di aver cone
+sciuto Locke, si inoltrò conseguentemente su questa
+strada dei cartesiani e divenne in tal modo l'autors
+del vero e proprio idealismo, cioè della conoscenza
+che quanto è esteso nello spazio e lo riempie, in
+altre parole il mondo intuitivo in genere, può avere
+la sua esistenza come tale solo ed esclusivamente
+nella nostra rappresentazione, e che è assurdo, anzi
+contraddittorio, attribuire a questo mondo intuitivo
+ancora un’esistenza al di fuori di ogni rappresenta¬
+zione e indipendente dal soggetto conoscente, e di
+conseguenza ammettere una materia esistente in se
+stessa.* E questa un’opinione molto giusta e pro¬
+fonda, ma è vero anche che in essa consiste tutta
+la sua filosofia. Egli ha côlto l’ideale e l'ha isolato
+nettamente; non ha però saputo trovare il reale, se
+*Ai profani in filosofia, tra cui vanno annoverati molti
+professori della medesima, si dovrebbe toglier del tutto
+la disponibilità della parola « idealismo » poiché non
+sanno cosa significhi, e con essa compiono ogni sorta di
+abusi; essi intendono con idealismo ora lo spiritualismo,
+ora all’incirca l’opposto del filisteismo, e sono rafforzati e
+confermati in quest’idea dai letterati dozzinali. Le parole
+« idealismo e realismo » non sono alla mercé di tutti, ma
+hanno il loro sicuro significato filosofico; chi intende
+qualcos’altro, deve anche usare un’altra parola. L'antitesi
+tra idealismo e realismo riguarda il conosciuto, l’oggetto,
+mentre quella tra spiritualismo e materialismo si riferi¬
+sce al conoscente, il soggetto. (Gli odierni ignoranti im¬
+brattacarte scambiano l’idealismo con lo spiritualismo).
+
+
+DELL'IDEALE E DEL REALE
+33
+ureocupa anche poco e si esprime sullargomen
+la colo occasionalmente, frammentariamente e in
+podo incompleto. La volontà e l'onnipotenza di
+pio sono la causa immediata di tutti i fenomeni del
+mondo intuitivo, cioè di tutte le nostre rappresenta¬
+ioni. Un’esistenza reale tocca soltanto agli esseri
+conoscenti e volenti, quali siamo noi stessi: questi
+lunque, assieme a Dio, esauriscono il reale. Essi so-
+pa spiriti, cioè per l'appunto esseri conoscenti e
+ralenti: anch'egli infatti considera volontà e cono¬
+ccenza come assolutamente inseparabili. Con i suoi
+predecessori egli ha in comune anche il ritenere Dio
+qualcosa di più palese che non il mondo fenomeni¬
+co e il considerare quindi una spiegazione qualsiasi
+regresso e riduzione a lui. In genere il suo stato ec¬
+clesiastico, anzi di vescovo, gli impose troppo dure
+catene e lo limitò a una cerchia di pensieri soffo¬
+cante, ch’egli non riusci mai ad allargare: Berkeley
+non poté quindi andare oltre, ma nella sua mente
+il vero e il falso dovettero accordarsi alla meglio.
+Ciò si può applicare addirittura alle opere di tutti
+questi filosofi, eccezion fatta per Spinoza: tutte
+quante sono distrutte dal teismo ebraico, inaccessi¬
+bile a ogni esame, insensibile a ogni indagine, che
+si presenta come un’idea fissa e si pone a ogni passo
+attraverso alla strada della verità; cosicché il danno
+che esso arreca qui nel campo teoretico è parallelo
+a quello arrecato durante un millennio nel campo
+pratico, intendo dire nelle guerre di religione, nei
+tribunali d’inquisizione e nelle conversioni di po¬
+poli con la forza della spada.
+L'affinità molto stretta tra Malebranche, Spinoza
+e Berkeley è indiscutibile: inoltre li vediamo par¬
+tire tutti da Cartesio, in quanto tengono fermo il
+problema fondamentale, da lui esposto sotto forma
+di dubbio sull’esistenza del mondo esterno, e tenta¬
+no di risolverlo sforzandosi di indagare la separa¬
+tione e il rapporto tra il mondo ideale, soggettivo,
+
+
+PARERGA E PARALIPOMENA
+91
+cioè dato soltanto nella nostra rappresentaziona
+quello reale, oggetivo, indipendente dall tana-
+ventaione, ed estente quindi in sé. Questo ae
+blema, come si é detto, è dunque l'ase intoma
+quale ruota tutta la filosofia dell'epoca moderna
+Locke si distingue da quei filosofi, verosimilnes
+te a causa dellinfuso di Hobbes e di Bacone, pe
+il fatto che si accosta per quanto può all'esperiena¬
+e all'intelletto comune, evitando il più possibil.
+ipotesi oltrepassanti il mondo fisico. Il reale è pa¬
+lui la materia, e senza curarsi dello scrupolo leibni
+ziano sull'impossibilità di un collegamento causala
+tra la sostanza immateriale e pensante e quella ma-
+teriale ed estesa, egli accetta addirittura un influsso
+fisico tra la materia e il soggetto conoscente. A tal
+proposito però, con rara assennatezza e onestà, egli
+va tanto oltre da confessare come possibile che
+quanto conosce e pensa sia esso stesso materia (On
+hum. underst., libro Iv, cap. 3, § 6); ciò gli ha atti¬
+rato più tardi la ripetuta lode del grande Voltaire
+e ai suoi tempi invece i maligni attacchi di uno
+scaltro prete anglicano, il vescovo di Worcester.?
+*Non vi è alcuna Chiesa pavida della luce quanto quel¬
+la inglese; e questo proprio per il fatto che nessun’altra
+ha in gioco interessi tanto ingenti come i suoi dato che
+le sue entrate ammontano a cinque milioni di lire sterli¬
+ne, somma superiore di quarantamila lire sterline a
+quanto incassa tutto il rimanente clero cristiano dei due
+emisferi messo insieme. D’altro canto non vi è alcuna na¬
+zione, che sia tanto doloroso vedere metodicamente istu¬
+pidita dalla più degradante superstizione, quanto quella
+inglese, che supera tutte le altre in intelligenza. La radi¬
+ce del male sta nel fatto che in Inghilterra non vi è alcun
+ministero della pubblica istruzione, cosicché quest’ultima
+è rimasta sinora nelle mani dei preti, i quali hanno avu¬
+to cura che i 2/3 della nazione non sappiano leggere ne
+scrivere, e di tanto in tanto hanno persino la sfacciatag¬
+gine di abbaiare con la più ridicola presunzione contro
+
+
+DELL'IDEALE E DEL REALE
+35
+ceondo lui il reale, cioè la materia, suscita nel co¬
+acente, con un « impulso », cioè con un urto, del¬
+e rappresentazioni, ossia l'ideale (ibid., libro 1, cap.
+a g11). Abbiamo dunque qui un realismo senz'al¬
+na massiccio, che provocando proprio con la sua
+parbitanza un'opposizione, ha determinato l'idea¬
+vemo di Berkeley, il cui particolare punto di par¬
+tepza sta forse in ciò che Locke espone alla fine del
+cecondo paragrafo del cap. 21, libro II, dicendo tra
+valtro con sorprendente mancanza di riflessione:
+„solidity, extension, figure, motion and rest, would
+be really in the world, as they are, whether there
+were any sensible being to perceive them, or not »
+(impenetrabilità, estensione, figura, movimento e
+stasi esisterebbero realmente nel mondo, come so¬
+no, vi sia o no un qualche essere senziente a per¬
+cepirli). Non appena quindi si riflette a ciò, lo si
+deve riconoscere come falso: a questo punto si pre¬
+senta l’idealismo di Berkeley, che è innegabile. Nel
+le scienze naturali. E quindi un dovere umano il contrab¬
+bandare in Inghilterra attraverso tutti i passaggi imma¬
+ginabili, luce, illuminismo e scienza, affinché i più ben
+pasciuti tra tutti i preti vengano infine tenuti a freno.
+Ci si deve opporre con franca derisione qui sul conti¬
+nente agli inglesi colti, quando mettono in mostra la
+loro ebraica superstizione del shabbat e consimili stupide
+bigotterie, « until they be shamed into common sense ».
+Cose del genere infatti sono uno scandalo per l’Europa
+e non possono essere tollerate più a lungo. Non si deve
+quindi mai più, anche nella vita comune, fare la minima
+concessione alla superstizione chiesastica inglese, ma oc¬
+torre muoverle immediatamente contro nel modo più re¬
+ciso, ovunque essa voglia farsi sentire. La sfrontatezza in¬
+latti dei preti anglicani e dei loro servi, sino ai nostri
+giorni, è quasi incredibile: essa deve quindi rimanere
+connnata alla loro isola, e accorgersi immediatamente di
+cssere fuori posto, non appena osi farsi vedere sul con¬
+tinente.
+
+
+PARERGA E PARALIPOMENA
+36
+contempo comunque anche Locke non trascua des
+poblena fondamentale, l'abiso tra le rappese-
+tioni in noi e le cose estenti indipendentenen.
+da noi, cioè la distinzione tra l'ideale e il reales
+sostanza però egli se ne libera con argomenti de.
+buon senso, ma in modo rozzo, richiamandosi aul.
+suffcienta rispetto agli scopi pratici della poeta¬
+conoscenza delle cose (ibid, libro IV, capp. 4 e o.
+ciò evidentemente non risolve la questione, e ma
+tra soltanto quanto poco sia qui all'altezza del pro
+blema l’empirismo. Senonché proprio il suo reali
+smo lo conduce a limitare quanto corrisponde nella
+nostra conoscenza al reale alle qualità inerenti alle
+cose, quali esse sono in se stesse, e a distinguere
+queste qualità da quelle appartenenti semplicemen-
+te alla nostra conoscenza delle cose, cioè soltanto
+all’ideale: di conseguenza egli chiama queste ulti¬
+me qualità secondarie, e le altre invece primarie,
+Questa è l’origine della distinzione tra cosa in sé e
+fenomeno, che diverrà più tardi sommamente im¬
+portante nella filosofia kantiana. Sta dunque qui il
+vero punto di riallacciamento genetico della dottri-
+na kantiana con la filosofia precedente, vale a dire
+con Locke. Questa dottrina fu agevolata e determi¬
+nata più da vicino dalle obiezioni scettiche di Hume
+alle teorie di Locke: per contro essa fu in rapporto
+solo polemico con la filosofia di Leibniz e di Wolf.
+Come qualità primarie, che debbono essere esclu¬
+sivamente determinazioni delle cose in sé, e di con¬
+seguenza spettare loro anche al di fuori della nostra
+rappresentazione e indipendentemente da questa,
+risultano semplicemente quelle che non si possono
+astrarre dalle cose: vale a dire estensione, impene¬
+trabilità, figura, movimento o stasi, e numero. Tut¬
+te le altre sono riconosciute come secondarie, cioè
+come provocate dall’azione di quelle qualità prima¬
+rie sui nostri organi di senso, di conseguenza come
+pure impressioni in questi ultimi: tali sono colore,
+
+
+DELL'IDEALE E DEI, REALF.
+37
+pe gusto, odore, durena, mollena, levigatena,
+naaità, ctera. Queste non hanno quindi la mi¬
+tua somigliania con la natura delle cose in sé che
+mucita, e sono da ricondursi, in quanto alle loro
+e a quelle qualità primarie, che sole sono pura¬
+nente oggettive e realmente presenti nelle cose
+id, libro 1. cap. 8, 86 7 sgg). Di queste ultime
+Lindi le nostre rappresentazioni sono realmente
+maie fedeli, che riproducono con precisione le qua¬
+lità sussistenti nelle cose in sé (loc. cit., § 15; mi
+malegro con il lettore che sente davvero come qui
+realismo diventi ridicolo). Noi vediamo cosi che
+vacke sottrae alla natura delle cose in sé, le cui rap¬
+presentazioni riceviamo dal di fuori, quanto è azio¬
+ne dei nervi degli organi di senso: un modo di con¬
+ciderare facile, comprensibile e incontestabile. Su
+questa strada però Kant fece in seguito il passo in¬
+commensurabilmente più importante di sottrarre
+anche quanto è azione del nostro cervello (questa
+assai maggiore massa nervosa); in tal modo tutte
+quelle pretese qualità primarie si abbassano tosto a
+secondarie, e le supposte cose in sé a pure apparen¬
+ze, mentre la vera cosa in sé, liberata ora anche da
+quelle qualità, rimane come una grandezza assoluta¬
+mente sconosciuta, una pura x. A questo scopo in¬
+dubbiamente fu necessaria un’analisi difficile, pro¬
+fonda, che doveva venire a lungo difesa contro gli
+assalti del malinteso e dell’incomprensione.
+Locke non deduce le sue qualità primarie delle
+cose, e non fornisce neppure alcuna ragione, per
+cui proprio queste e non altre siano puramente og
+gettive, se non quella che esse sono indistruttibili.
+Se ora noi ricerchiamo perché egli dichiari non sus¬
+sistenti oggettivamente le qualità delle cose, che
+operano nel modo più immediato l’impressione,
+giungendo di conseguenza proprio dal di fuori, e
+conceda al contrario ciò a quelle che (come dopo
+di allora è stato riconosciuto) sorgono dalle funzio¬
+
+
+PARERGA E PARALIPOMENA
+38
+ui patiolani del nouo inellito, troyano cha-
+causa di tuto ciò sta nel fato che la cociena
+tuente in modo ogetivo (cidé la cosciena di ee-
+esterne) abbisogna necesariamente di un appan-
+complicato, di cui esa si presenta come fundione
+e che per conseguenta le sue più essenziali e fonde
+mentali determinazioni sono già stabilite dall'inta-
+no. Per tale ragione la forma generale, cioè la na¬
+tura e il modo dell'intuizione, onde soltanto pul
+derivare quanto è conoscibile a priori, si presenta¬
+come la trama fondamentale del mondo intuito a
+compare quindi come ciò che è assolutamente pe
+cessario, privo di eccezioni e in nessun modo elimi.
+nabile, sussistendo anteriormente come condizione
+di tutto il resto e della sua molteplice disparita
+Com’è noto, ciò è anzitutto tempo e spazio, e inol¬
+tre tutto quanto segue da essi ed è possibile solo
+attraverso di essi. In se stessi tempo e spazio sono
+vuoti, e se qualcosa vuole entrarvi, deve presentarsi
+come materia, in altre parole come un che di ope¬
+rante, dunque come causalità: la materia infatti è
+da cima a fondo pura causalità — il suo essere sta
+nel suo operare, e viceversa — e non è per l’appun¬
+to null’altro che la forma intellettuale della causa¬
+lità stessa, concepita oggettivamente. (Quadruplice
+radice d. pr. di ragione suff., 2’ ed., p. 77; e anche
+Mondo c. vol. e r., vol. 1, p. 9 e vol. II, pp. 48 e 49;
+3° ed., vol. 1, p. 10 e vol. II, p. 52). Ne discende al¬
+lora che le qualità primarie di Locke sono sempli¬
+cemente quelle che non si possono estrarre dalle co-
+se - il che dimostra per l’appunto abbastanza chia¬
+ramente la loro origine soggettiva, poiché esse sgor¬
+gano immediatamente dalla costituzione dell’appa¬
+rato stesso dell’intuizione — e che per conseguenza
+egli ritiene assolutamente oggettivo proprio ciò che,
+in quanto funzione cerebrale, è molto più sogget¬
+tivo ancora che non l’impressione sensibile, deter¬
+
+
+DELL'IDEALE E DEL REALE
+39
+oata direttamente dallesterno, o quanto meno
+definita più da vicino.
+nes intanto è bello vedere come, attraverso tutte
+ete diverse concerioni e spiegaioni, il problema,
+ierato da Cartesio, del rapporto tra l'ideale e il
+ne si sviluppi e si rischiari sempre più, mentre
+de verità ne rimane favorita. Ciò accadde indubbia¬
+nente con il favore delle circostanze di quel tempo,
+per meglio dire della natura, che fece nascere in
+muropa e giungere alla maturità, nel breve volgere
+ai due secoli, più di una mezza dozzina di cervelli
+mealmente pensanti; al che si aggiunse ancora, come
+regalo del destino, il fatto che costoro, in mezzo a
+un mondo dedito soltanto all'utile e al piacere, e
+quindi di basso sentire, poterono seguire la loro no¬
+bile vocazione, senza curarsi dell'abbaiare dei preti
+e dei vaneggiamenti, oppure degli intenzionali ma-
+neggi, dei professori di filosofia dell'epoca.
+Mentre poi Locke, secondo il suo rigido empiri¬
+smo, sostenne che anche il rapporto di causalità è
+da noi conosciuto soltanto attraverso l’esperienza,
+Hume non contestò, come sarebbe stato giusto, que¬
+sta falsa asserzione, ma oltrepassando immediata-
+mente il segno negò la realtà stessa del rapporto di
+causalità, precisamente con l’osservazione, in se stes¬
+sa giusta, che l’esperienza, con la sua immediatezza
+sensibile, non può dare mai nulla più di una pura
+successione delle cose, e non un vero e proprio ri¬
+sultare e determinare, una connessione necessaria.
+E universalmente risaputo che questa obiezione
+scettica di Hume costitui lo stimolo per le ricerche
+molto più profonde di Kant sull’argomento, le qua¬
+li condussero quest’ultimo al risultato che la causa¬
+lità, assieme al tempo e allo spazio, è conosciuta da
+noi a priori, ci appartiene quindi anteriormente a
+ogni esperienza, e fa cosi parte del lato soggettivo
+della conoscenza; dal che inoltre segue, che tutte
+quelle qualità primarie, cioè assolute, delle cose,
+
+
+PARERGA E PARALIPOMENA
+40
+stabilite da Locke, poiché sono tutte quante costar¬
+te da pure determinationi del tempo, dello spasi.
+e della causalità, non posono esser proprie dell.
+cose in se stesse, ma ineriscono al nostro modo a¬
+conoscere le medesime, e di conseguenza non sons
+da annoverarsi nel reale, ma nell'ideale. La concha
+sione ultima da tutto ciò è che noi sotto nessun
+punto di vista conosciamo le cose come sono in cé
+ma le vediamo unicamente nella loro apparenza, D:
+conseguenza il reale, la cosa in se stessa, risulta del
+tutto un'incognita, una pura x, e tutto il mondo
+intuitivo va attribuito all'ideale, come una semplice
+rappresentazione, un fenomeno, al quale peraltro
+proprio perché è tale, deve corrispondere in qual¬
+che modo un reale, una cosa in sé.
+Partendo da questo punto, io ho infine compiuto
+ancora un passo, e credo che sarà l'ultimo, poiché
+ho risolto il problema, attorno al quale si svolge da
+Cartesio in poi ogni filosofare, riconducendo ogni
+realtà e conoscenza ai due elementi della nostra
+autocoscienza, cioè a qualcosa oltre cui non può
+più darsi alcun principio esplicativo, essendo il più
+immediato e quindi il supremo. Io ho pensato pro¬
+priamente che, come risulta dalle indagini qui espo¬
+ste dei miei predecessori, l'assolutamente reale, cioè
+la cosa in se stessa, non può esserci data in nessun
+caso proprio dal di fuori, attraverso la pura rappre¬
+sentazione, poiché appartiene inevitabilmente al¬
+l’essenza di quest'ultima il fornire sempre soltanto
+l’ideale; e ho pensato per contro, dal momento che
+noi stessi siamo incontestabilmente reali, che la co¬
+noscenza del reale debba essere in qualche modo
+attinta dall’interno del nostro proprio essere. Que
+sto reale infatti si presenta qui alla coscienza in
+modo immediato, cioè come volontà. La linea di
+separazione tra il reale e l’ideale è quindi ormai da
+me tracciata in modo tale che tutto il mondo intui¬
+tivo, presentantesi oggettivamente, comprendente il
+
+
+DELL'IDEALE E DEL REALE
+ro di ciascuno, assieme allo spazio, al tempo e
+lla causalità, e assieme anche all'estensione di Spi¬
+a e alla materia di Locke, appartenga in quanto
+hbresentarione all'ideale, e come reale rimanga
+aitanto la volonta, che tutti quanti i miei prede
+pesori hanno gettato senza scrupoli e senza indagini
+nella sfera dell'ideale, come un semplice risultato
+della rappresentazione e del pensiero, e che anzi
+patesio e Spinora hanno addirittura identifcato
+n il giudizio." In tale guisa anche per me l'etica
+à legata con la metafisica in modo del tutto imme¬
+diato e incomparabilmente più saldo che in alcun
+altro sistema: cosi il significato morale del mondo
+e dell'esistenza è posto più saldamente che non mai.
+Volontà e rappresentazione soltanto sono sostanzial-
+mente differenti, in quanto costituiscono l'antitesi
+estrema e fondamentale in tutte le cose del mondo
+e non lasciano nulla all'infuori. La cosa rappresen-
+tata e la sua rappresentazione hanno lo stesso si-
+gnificato, ma sono anche soltanto la cosa rappresen¬
+tata, non la cosa in se stessa: quest'ultima è sempre
+volontà, sotto qualsiasi aspetto essa possa apparire
+nella rappresentazione.
+Spinoza, loc. cit.; Cartesio, Meditationes de prima phi¬
+losophia, Med. iV, p. 28.
+
+
